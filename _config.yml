@@ -1,0 +1,28 @@
+name: mocomeau
+favicon: null
+layout_spectrum: 0.687274452066049
+typography_spectrum: 0.6669546335469931
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3033964764326811
+  lightness: 0.040632771560922265
+  saturation: 0.3137018068227917
+  rhythmicContrast: 0.07209083088673651
+purpose: []
