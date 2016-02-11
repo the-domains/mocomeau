@@ -2,12 +2,13 @@ name: mocomeau
 favicon: null
 layout_spectrum: 0.687274452066049
 typography_spectrum: 0.6669546335469931
+title: Marc-Olivier Comeau
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-72470273-1
   facebook: null
   twitter: null
 opengraph:
